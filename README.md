@@ -6,14 +6,12 @@ MC-DC: An MLP-CNN Based Dual-path Complementary Network for Medical Image Segmen
 This code has been tested on a PC equipped with an Intel(R) Core(TM) i9-10940X CPU and an Nvidia GTX 3090 with 24GB of memory.
 ## 2. Downloading dataset
 * Skin lesions segmentation:
-[ISIC 2018 Challenge](https://challenge.isic-archive.com/landing/2018/)
-
-[PH2 Dataset](https://www.kaggle.com/datasets/synked/ph2-modified/data)
-
+  [ISIC 2018 Challenge](https://challenge.isic-archive.com/landing/2018/)
+  [PH2 Dataset](https://www.kaggle.com/datasets/synked/ph2-modified/data)
+  
 * Polyp segmentation:
-[ Kvasir-SEG](https://datasets.simula.no/kvasir-seg/)
-
-[CVC-ClinicDB](https://www.kaggle.com/datasets/balraj98/cvcclinicdb)
+  [ Kvasir-SEG](https://datasets.simula.no/kvasir-seg/)  
+  [CVC-ClinicDB](https://www.kaggle.com/datasets/balraj98/cvcclinicdb)
 
 ## 3. Running
   python  train_isic.py
