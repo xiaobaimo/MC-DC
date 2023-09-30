@@ -7,10 +7,14 @@ This code has been tested on a PC equipped with an Intel(R) Core(TM) i9-10940X C
 ## 2. Downloading dataset
 * Skin lesions segmentation:
 [ISIC 2018 Challenge](https://challenge.isic-archive.com/landing/2018/)
+
 [PH2 Dataset](https://www.kaggle.com/datasets/synked/ph2-modified/data)
+
 * Polyp segmentation:
 [ Kvasir-SEG](https://datasets.simula.no/kvasir-seg/)
+
 [CVC-ClinicDB](https://www.kaggle.com/datasets/balraj98/cvcclinicdb)
+
 ## 3. Running
   python  train_isic.py
 ## 4. Questions
