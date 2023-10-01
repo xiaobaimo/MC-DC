@@ -1,5 +1,5 @@
 # MC-DC
-MC-DC: An MLP-CNN Based Dual-path Complementary Network for Medical Image Segmentation
+MC-DC: An MLP-CNN Based Dual-path Complementary Network for Medical Image Segmentation (Submitted)
 ## Overview of the proposed MC-DC network
 ![image](https://github.com/xiaobaimo/MC-DC/assets/37462722/52f0643a-5c41-498b-b1ae-465d96db780f)
 ## 1. Environment setup
