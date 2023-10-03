@@ -1,7 +1,8 @@
 # MC-DC
 MC-DC: An MLP-CNN Based Dual-path Complementary Network for Medical Image Segmentation (Submitted)
 ## Overview of the proposed MC-DC network
-![image](https://github.com/xiaobaimo/MC-DC/assets/37462722/52f0643a-5c41-498b-b1ae-465d96db780f)
+![image](https://github.com/xiaobaimo/MC-DC/assets/37462722/9425a4bc-d201-4abf-921a-4d76407948ad)
+
 ## 1. Environment setup
 This code has been tested on a PC equipped with an Intel(R) Core(TM) i9-10940X CPU and an Nvidia GTX 3090 with 24GB of memory.
 ## 2. Downloading dataset
